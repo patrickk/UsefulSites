@@ -11,3 +11,5 @@ This repository will be used to store useful resources from the Web.
 -Youtube channel with everything you need to know for web development: https://www.youtube.com/user/learncodeacademy
 
 -Great tutorial with reading+videos for React+React Router tutorial: http://courses.reactjsprogram.com/
+
+-Pro Git book online, learn about version control, using Git and Github: https://git-scm.com/book/en/v2
