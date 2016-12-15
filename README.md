@@ -15,3 +15,5 @@ This repository will be used to store useful resources from the Web.
 -Pro Git book online, learn about version control, using Git and Github: https://git-scm.com/book/en/v2
 
 -Simple rules every starting ReactJS developer should take note of: https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+-Customize bootstrap navbar: http://work.smarchal.com/twbscolor/index.php
