@@ -19,3 +19,5 @@ This repository will be used to store useful resources from the Web.
 - Customize bootstrap navbar: http://work.smarchal.com/twbscolor/index.php
 
 - Recommended YT channel for solving code problems: https://www.youtube.com/user/tusharroy2525
+
+- Study guide on LEETCODE/HACKERRANK: https://workflowy.com/s/wGqavcPQFm
